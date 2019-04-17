@@ -36,7 +36,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.14",
     "@fortawesome/react-fontawesome": "0.1.4",
     "babel-loader": "^8.0.5",
-    "babel-plugin-add-module-exports": "^1.0.0",
+    "babel-plugin-add-module-exports": "^1.0.2",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "body-parser": "^1.18.3",
     "compression": "^1.7.3",
